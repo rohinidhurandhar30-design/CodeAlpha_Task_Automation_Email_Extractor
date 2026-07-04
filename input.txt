@@ -1,0 +1,11 @@
+Hello team,
+
+My name is Rahul Sharma and I am working on a Python project.
+You can contact me at rahul.sharma@gmail.com for project details.
+
+For support, please email support@codealpha.tech or helpdesk123@yahoo.com.
+The admin contact is admin.office@company.com.
+
+Also reach our developers at dev.team.project@gmail.com and backend_dev@services.net.
+
+Thank you!
